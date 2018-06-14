@@ -1,0 +1,49 @@
+
+
+
+body {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+}
+
+.navbar{
+        margin-bottom: 30px;
+}
+
+.container {
+        background-color: lightgray;
+        height: 750px;
+}
+
+.containermiddle {
+        background-color: white;
+        width: 1110px;
+        height: 600px;
+        padding: 20px;
+}
+
+.containerbottom {
+        background-color: teal;
+        width: 1140px;
+        height: 10px;
+        margin-left: 150px;
+}
+
+footer {
+        width: 1140px;
+        height: 50px;
+        background-color: darkgrey;
+        margin-left: 150px;
+}
+
+form {
+        padding: 20px;
+}
+
+.containerimage {
+        margin-bottom: 10px;
+}
+        
